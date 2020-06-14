@@ -1,3 +1,4 @@
+mod bigint;
 mod bignum;
 
 #[cfg(feature = "benchmark-internals")]

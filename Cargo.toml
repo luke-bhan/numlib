@@ -51,3 +51,6 @@ required-features = ["benchmark-internals"]
 
 [dev-dependencies]
 criterion = "0.3.2"
+
+[dependencies]
+uint = "0.8.3"
